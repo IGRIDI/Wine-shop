@@ -1,0 +1,6 @@
+﻿  Source.cpp
+e:\files\севгу\3 семестр\курсовик\igridi-2\igridi-2\igridi-2\source.cpp(1168): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+e:\files\севгу\3 семестр\курсовик\igridi-2\igridi-2\igridi-2\source.cpp(1642): warning C4101: c: неиспользованная локальная переменная
+e:\files\севгу\3 семестр\курсовик\igridi-2\igridi-2\igridi-2\source.cpp(2423): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  IGRIDI-2.vcxproj -> E:\Files\СЕВГУ\3 семестр\КУРСОВИК\IGRIDI-2\IGRIDI-2\Debug\IGRIDI-2.exe
+  IGRIDI-2.vcxproj -> E:\Files\СЕВГУ\3 семестр\КУРСОВИК\IGRIDI-2\IGRIDI-2\Debug\IGRIDI-2.pdb (Full PDB)
